@@ -1,0 +1,47 @@
+.faqBody {
+    height: 90%;
+}
+
+#wrapper {
+    padding-top: 3.2rem;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    height: 100%;
+    padding-bottom: 3.2rem;
+}
+ul li {
+    list-style:none;
+}
+
+.faqImg {
+    width: 10.7rem;
+    height: 2.9rem;
+    margin-top: 1.43rem;
+}
+
+.faqImg >img {
+    width: 100%;
+}
+
+.faqHeader {
+    font-size: 1rem;
+    color: #202020;
+    margin-top: 0.4rem;
+}
+.faqContent {
+    font-size: 0.8rem;
+    color: #202020;
+    margin-top: 0.9rem;
+    margin-left: 2.1rem;
+    margin-right: 2.1rem;
+}
+
+.unfold {
+    margin-top: 0.64rem;
+    font-size: 0.8rem;
+    color: #00ABF3;
+}
+.unfold >img {
+    width: 0.6rem;
+    height: 0.3rem;
+}
